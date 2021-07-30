@@ -5,8 +5,6 @@ Note: Full project is in private repository.
 ## Dashboard link
 [Vargi bot warehouse management system](https://jagdshmb.github.io/eYRC_VargiBot_Dashboard/)
 
-Note: I have designed this dashboard mainly for the laptops. So,if ypu open it in mobile phones you may get glitches.
-
 - **Order map:** Which display the order details and status of the order using status flag at order location on map.
 - **Order table:** This tabulated the order details and their status in a real time.
 - **Order chart:** This compares the time taken by the each order to get shipped.
